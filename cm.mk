@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/sony/hikari/full_nozomi.mk)
+$(call inherit-product, device/sony/nozomi/full_nozomi.mk)
 
 # Inherit CM common GSM stuff.
 $(call inherit-product, vendor/cm/config/gsm.mk)
